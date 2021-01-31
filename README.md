@@ -1,3 +1,6 @@
+# 编译失败，请勿使用。
+# Compilation failed, DON'T USE.
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
